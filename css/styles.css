@@ -1,0 +1,126 @@
+
+*{
+	padding: 0;
+	margin: 0;
+}
+/*------------------------------------------------------------First section-------------------------------*/
+.section1
+{
+	background-color: #333;
+	color: #fff;
+	font-size: 20px;
+	text-align: center;
+	height: 400px;
+	padding-left: 50px ;
+	padding-top: 40px;
+	padding-right: 50px;
+}
+	
+.section1 h1,p{
+	padding: 20px;
+
+
+}
+.section1 a{
+	color: #fff;
+	border: solid;
+	text-decoration: none;
+	padding: 20px;
+	border-radius: 5px;
+ 
+}
+.section1 p{
+	padding-bottom: 50px;
+}
+.section1 a:hover{
+	background-color: #00f;
+
+}
+/*------------------------------------------------------------------------Second section-------------------------------*/
+.section2{
+	background-color: #fff;
+	font-size: 20px;
+	text-align: center;
+	height: 300px;
+	padding-left: 50px ;
+	padding-right: 50px ;
+	color: 000;
+	padding-top: 60px;
+}
+.section2 h1 p{
+	padding: 20px;
+}
+/*------------------------------------------------------------------------third section----------------------------------*/
+.section3{
+	display: inline-flex;
+	background-color: #333;
+	height: 400px;
+	text-align: center;
+	padding: 40px;
+	}
+.section3 .sub1 img{
+	height: 50%;
+    border-radius: 5px;
+	}
+
+.section3 .sub1{
+	
+		background-color: #fff;
+		margin: 20px;
+		border-radius: 5px;
+        padding: 20px;
+
+
+}       
+/*----------------------------------------------------------------------Fourth section-------------------------------------*/
+.section4{
+	background-color: #fff;
+	font-size: 20px;
+	text-align: center;
+	height: 300px;
+	padding-left: 50px ;
+	padding-right: 50px ;
+	color: 000;
+	padding-top: 60px;
+}
+.section4 h1 p{
+	padding: 20px;
+  }
+ /*----------------------------------------------------------------------fivth section--------------------------------------*/
+.section5{
+	
+	display: inline-flex;
+	font-size: 20px;
+	text-align: center;
+	width: 100%;
+	height: 50vh;
+}
+.section5 .sub5 {
+	background-color: #0D6EFD;
+    padding: 80px;
+    
+
+
+}
+.section5 .sub6{
+	background-color: #333;
+    padding: 80px;
+    
+    color: #fff;
+}
+
+/*--------------------------------------------------------------------------End-----------------------------------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
